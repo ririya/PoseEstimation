@@ -1,0 +1,9 @@
+﻿  arucoMarkers.cpp
+e:\dropbox (asu)\projects\gitrepositories\arucomarkers\arucomarkers.cpp(30): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+e:\dropbox (asu)\projects\gitrepositories\arucomarkers\arucomarkers.cpp(75): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+e:\dropbox (asu)\projects\gitrepositories\arucomarkers\arucomarkers.cpp(110): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+e:\dropbox (asu)\projects\gitrepositories\arucomarkers\arucomarkers.cpp(131): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+e:\dropbox (asu)\projects\gitrepositories\arucomarkers\arucomarkers.cpp(135): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+e:\dropbox (asu)\projects\gitrepositories\arucomarkers\arucomarkers.cpp(142): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  ArucoMarkers.vcxproj -> E:\Dropbox (ASU)\Projects\GitRepositories\ArucoMarkers\x64\Debug\ArucoMarkers.exe
+  ArucoMarkers.vcxproj -> E:\Dropbox (ASU)\Projects\GitRepositories\ArucoMarkers\x64\Debug\ArucoMarkers.pdb (Partial PDB)
